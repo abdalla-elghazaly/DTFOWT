@@ -6,8 +6,8 @@ The guidelines and procedures for installing the necessary tools are prescribed 
 
 Installing WSL on Windows
 ~~~~~~~~~~~~~~~~~
-
-
+Install any Windows Subsystem for Linux (WSL) e.g Ubuntu  (https://ubuntu.com/download/desktop)
+Create a username and password if using Ubuntu
 Installing Anaconda
 ~~~~~~~~~~~~~~~~~
 
